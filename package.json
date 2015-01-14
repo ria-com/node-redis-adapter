@@ -1,0 +1,24 @@
+{
+  "name": "node-redis-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/redis.js",
+  "dependencies": {
+    "redis": "~0.10.1",
+    "config": "*"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ria-com/node-redis-adapter.git"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ria-com/node-redis-adapter/issues"
+  },
+  "homepage": "https://github.com/ria-com/node-redis-adapter"
+}
